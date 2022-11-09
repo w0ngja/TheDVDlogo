@@ -1,5 +1,5 @@
 # TheDVDlogo
-A fun game for fans of the TV show 'The Office' and for those out of the loop just watch this [video](https://www.youtube.com/watch?v=QOtuX0jL85Y)
+A fun game for fans of the TV show 'The Office' and for those out of the loop just watch this [video](https://www.youtube.com/watch?v=QOtuX0jL85Y).
 
   Created using the Pygame open-source library.
 \
